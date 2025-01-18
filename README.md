@@ -6,7 +6,7 @@
 
 ##### I also like cars, music, cinematography, and philosophy.
 
-##### You can reach me at <ins>known.as.rares [at] gmail [dot]</ins> com # (contact me for a resume)
+##### You can reach me at <ins>known.as.rares [at] gmail [dot] com</ins> # (contact me for a resume)
 
 ##### I'm looking to collaborate on anything FOSS (especially security related)
 
