@@ -1,30 +1,16 @@
-# Hello there, I'm Rares!
+$ Hello there!
 
-Welcome to my GitHub profile! I'm a student at POLITEHNICA Bucharest and I'm passionate about Security, Human-Computer Interaction, and everything Engineering.
+$ I am a Computer Science student and I am mainly interested in Cyber Security, Operating Systems, Hardware, Networking, and everything in between.
 
-## What I'm Learning
-- Software Engineering
-- Cyber Security
-- Operating Systems
-- Networks
+$ I like fiddling with stuff (until I break them). I am still at the beginning of my journey and this is my github profile.
 
-## Seeking help with
-- Anything that I'm learning (I have a thirst for knowledge)
 
-## How to reach me (contact me for a resume)
-- Email: known.as.rares@gmail.com
+$ I also like cars, music, cinematography, and philosophy.
 
-## Looking to collaborate on
-- Anything FOSS
+$ You can reach me at ***<ins>known.as.rares [at] gmail [dot] com</ins>*** # (contact me for a resume)
 
-## Fun Facts
-- I'm a car enthusiast
-- I like to swim and run
+$ I'm looking to collaborate on anything **FOSS** (especially security related)
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=raresgoidescu&show_icons=true&theme=radical)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raresgoidescu&layout=compact&theme=radical)
-
-Thanks for stopping by!
+---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raresgoidescu&layout=compact&theme=transparent)
